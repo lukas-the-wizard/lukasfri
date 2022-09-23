@@ -1,2 +1,1 @@
-Lukas Friedrichs profile
-
+# Lukas Friedrich
